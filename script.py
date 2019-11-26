@@ -5,3 +5,5 @@ def hello(user):
 
 
 hello("Hello")
+hello("Hi")
+hello("Hello Branch")
